@@ -1,0 +1,25 @@
+*{
+    background-color: bisque;
+}
+img{
+    width: auto; 
+    height: 200px;
+}
+
+h1{
+    text-align: center;
+    font-size: 48px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: rgb(29, 29, 29);
+}
